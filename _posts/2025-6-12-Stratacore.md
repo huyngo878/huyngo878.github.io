@@ -73,4 +73,4 @@ Welcome to the first devlog for my upcoming game **Stratacore**! This is a Top D
 
 ## Screenshots/Gif
 -- First initial look =D (its very rough i know but it'll get better I promise!)
-> ![Picture of player!](/assets/img/devlog/FirstScreenshot.png)
+> ![Picture of player!](/assets/img/devlog/preview.gif)
