@@ -15,6 +15,8 @@ Welcome to the first devlog for my upcoming game **Stratacore**! This is a Top D
 
 ## Core Progress
 - 1.5 month into development
+
+
 ### What’s Done
 
 #### Animation System
